@@ -1,0 +1,13 @@
+*
+
+!start.sh
+!CMakeLists.txt
+!.gitignore
+!.gitmodules
+
+!mnisc/
+!mnisc/**
+
+!lib/
+!lib/**
+lib/submodules/*
